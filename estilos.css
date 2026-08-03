@@ -4,7 +4,7 @@
 }
 
 .cabecalho{
-    padding:15px 25px;
+    padding: 15px 25px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -38,8 +38,11 @@ main {
 
 h1 {
    color: #fff;
+   font-size: 24px;
 }
 
 footer {
     background-color: #1c6b53;
+    padding: 15px 25px;
+    color: #fff
 }
