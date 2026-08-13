@@ -74,7 +74,7 @@ h2 {
     height: 100%;
     backface-visibility: hidden; /* Esconde o lado que está de costas */
     border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(3, 40, 43, 0.911);
     overflow: hidden;
     background-color: white;
     display: flex;
